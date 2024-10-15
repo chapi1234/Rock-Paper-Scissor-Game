@@ -15,3 +15,4 @@ Each round, the computer randomly selects its move, and the game evaluates the o
 The game keeps track of the scores for both you and the computer, with the first player to reach three points declared the winner. 🏆
 After a winner is determined, a reset button will appear, allowing you to easily start a new game. 🔄
 With its simple interface and engaging gameplay, this Rock, Paper, Scissors game is perfect for players of all ages. Whether you’re looking for a quick distraction or a challenge to test your luck and strategy, this game is sure to entertain! 🎉
+<img src="assets/2.png" alt = "page">
